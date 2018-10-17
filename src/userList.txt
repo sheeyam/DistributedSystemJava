@@ -1,0 +1,5 @@
+Username Password Points
+sheeyam 123456 590
+john 112233 5600
+joseph 445566 2500
+paul 123456 1900

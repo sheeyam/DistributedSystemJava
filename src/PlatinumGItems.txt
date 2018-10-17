@@ -1,0 +1,4 @@
+item quantity points
+iPhone 16 250
+iWatch 5 350
+iPad 9 400

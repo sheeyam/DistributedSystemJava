@@ -1,0 +1,4 @@
+item quantity points
+OPO 20 200
+Mac 4 500
+HP 8 200

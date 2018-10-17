@@ -1,0 +1,4 @@
+Item Quantity Points
+pendrive 11 200
+mouse 8 340
+keyboard 10 400
